@@ -36,22 +36,17 @@
 
 ######Java Source(.java 파일)
 ######l
-######l
 ######l << ----------------------------- << Java Compiler
-######l
 ######l
 ######V
 ######Java Byte Code(.class 파일)
 ######l
-######l
 ######V
 ######--------------------------------------------------------------------------
-######l    l
 ######l    l
 ######l    V
 ######l    Class Loader <--> Runtime Data Areas
 ######l    A
-######l    l
 ######l    l
 ######l    V
 ######l    Execution Engine <--> Runtime Data Areas
